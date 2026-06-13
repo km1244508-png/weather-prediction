@@ -1,0 +1,4 @@
+gradio==4.7.1
+numpy
+scikit-learn
+pandas
